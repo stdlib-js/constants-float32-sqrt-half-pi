@@ -72,6 +72,7 @@
     "square",
     "root",
     "ieee754",
+    "float",
     "single",
     "precision",
     "floating-point",
